@@ -3,9 +3,14 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <Nullable>enable</Nullable>
-    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Description>C# Client For NetData</Description>
+    <FileVersion>0.0.1.0</FileVersion>
+    <AssemblyVersion>0.0.1.0</AssemblyVersion>
+    <Version>0.0.1</Version>
   </PropertyGroup>
-  <version>0.0.1</version>
+  
   <ItemGroup>
     <PackageReference Include="ByteSize" Version="2.0.0" />
     <PackageReference Include="Microsoft.Extensions.Http" Version="5.0.0" />
