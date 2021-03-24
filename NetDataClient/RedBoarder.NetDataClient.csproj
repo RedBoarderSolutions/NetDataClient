@@ -9,6 +9,9 @@
     <FileVersion>0.0.1.0</FileVersion>
     <AssemblyVersion>0.0.1.0</AssemblyVersion>
     <Version>0.0.1</Version>
+    <Company>Red Boarder Solutions</Company>
+    <Product>C# NetDataClient</Product>
+    <Authors>Red Boarder Solutions</Authors>
   </PropertyGroup>
   
   <ItemGroup>
